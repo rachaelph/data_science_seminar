@@ -1,0 +1,36 @@
+List of Seminars (2022): 
+
+--------------------------------------------------------
+22-01-14-DS43-ML_lecture_00_ml_classic - https://www.youtube.com/watch?v=z2CjHB5wTZo
+22-01-21-DS44-Management_1 - https://www.youtube.com/watch?v=YKMqgRo39AI 
+22-01-28-DS45-Management_2 - https://www.youtube.com/watch?v=A8KjGxg8Wl0
+22-02-04-DS46-Apache_Airflow-Chris
+
+--------------------------------------------------------
+Future Seminars:
+22-02-11-DS47-TimeSeriesForecasting-Malte
+22-02-18-DS48-ForeignKeys_Triggers_etc-Tyler
+
+- distributed ML (Brad Miro)
+
+===============================
+Marketing
+.. xxxxxxxxxxx
+.. xxxxxxxxxxx
+===============================
+Returning to ML:
+
+ - ML_Interview_CheatSheets_3 - Malte
+ - Naive Bayes Gaussian for 2-dim classification (inside circle/outside circle) 
+   - case when people usually use SVM with RBF kernel (RBF = Radial Basis Function)
+ - RCF (Random Cut Forest) as improvement over Isolation Forest for anomaly detection
+ - Open AI GPT models 
+   - https://drewhawkswood.medium.com/gpt-4-artificial-intelligence-is-greater-than-you-think-not-just-an-upgrade-coming-late-2021-29f3f0b74d3f  
+ - Financial terms for Data Scientists 
+   - https://medium.com/fintechexplained/must-know-4-quant-finance-concepts-for-data-scientists-98da41b38b50  
+ - speech-to-text, phonetics, etc. - 
+ - transfer learning - 
+ - scikit-learn mistakes 
+   - https://towardsdatascience.com/6-sklearn-mistakes-that-silently-tell-you-are-a-rookie-84fa55f2b9dd 
+
+ - 
